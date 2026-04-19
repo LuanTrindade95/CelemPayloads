@@ -6,10 +6,10 @@
     "hash": "82f9878551030f54657792c0740d9d51a09500eeae1fba21106b0c441e6732c4",
     "artifactType": "archive",
     "targetPath": "",
-    "markerPath": "BepInEx/core/BepInEx.Preloader.Core.dll",
+    "markerPath": "BepInEx/core/BepInEx.Preloader.dll",
     "validationPaths": [
       ".doorstop_version",
-      "BepInEx/core/BepInEx.Preloader.Core.dll",
+      "BepInEx/core/BepInEx.Preloader.dll",
       "winhttp.dll"
     ]
   },
