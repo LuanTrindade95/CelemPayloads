@@ -1,9 +1,9 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "package": {
-    "url": "https://github.com/LuanTrindade95/CelemPayloads/releases/download/v1.5.4/CelemInstall-1.5.4.zip",
+    "url": "https://github.com/LuanTrindade95/CelemPayloads/releases/download/v1.5.5/CelemInstall-1.5.5.zip",
     "fallbackUrls": [],
-    "hash": "86e34ed1eb95119f920236342d5c3a29ef174088437bc9c4e050d26a8417476c",
+    "hash": "92090dc591a8dd5c4400ca036520e12294b8fd2a45673aeacbf1ee6cef9b2455",
     "artifactType": "archive"
   }
 }
