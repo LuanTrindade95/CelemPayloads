@@ -1,6 +1,6 @@
 # Celem Payloads
 
-Public launcher manifest hosting for Celem launcher artifact tests.
+Public launcher manifest hosting for CelemLauncher artifact tests.
 
 Current files:
 - `package/launcher_manifest.json` points launcher self-updates to GitHub Release assets in this repository.
