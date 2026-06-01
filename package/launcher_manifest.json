@@ -1,11 +1,11 @@
 {
-    "version":  "1.5.36",
+    "version":  "1.5.37",
     "package":  {
-                    "url":  "https://github.com/LuanTrindade95/CelemPayloads/releases/download/v1.5.36/CelemLauncher-1.5.36.zip",
+                    "url":  "https://github.com/LuanTrindade95/CelemPayloads/releases/download/v1.5.37/CelemLauncher-1.5.37.zip",
                     "fallbackUrls":  [
 
                                      ],
-                    "hash":  "f2a186657f8c99124ae27297bf7d99acf529e69a92659120b250a8df2d3e1602",
+                    "hash":  "44b92ad0b9326e947cc73233e029751a19ea41526b77028b8db409084e261b91",
                     "artifactType":  "archive"
                 }
 }
