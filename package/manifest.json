@@ -1,15 +1,19 @@
 {
   "version": "0.1.291",
   "bepinEx": {
-    "url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip",
-    "fallbackUrls": [],
-    "hash": "82f9878551030f54657792c0740d9d51a09500eeae1fba21106b0c441e6732c4",
+    "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/BepInEx-BepInExPack_V_Rising-1.733.2.zip",
+    "fallbackUrls": [
+      "https://gcdn.thunderstore.io/live/repository/packages/BepInEx-BepInExPack_V_Rising-1.733.2.zip"
+    ],
+    "hash": "eabfb53d80bed427ddbd1ecf8af4dcd6e82e152809d44ab3218d0a09984f491c",
     "artifactType": "archive",
     "targetPath": "",
-    "markerPath": "BepInEx/core/BepInEx.Preloader.dll",
+    "markerPath": "BepInEx/core/BepInEx.Preloader.Core.dll",
     "validationPaths": [
       ".doorstop_version",
-      "BepInEx/core/BepInEx.Preloader.dll",
+      "doorstop_config.ini",
+      "BepInEx/core/BepInEx.Preloader.Core.dll",
+      "BepInEx/core/BepInEx.Unity.IL2CPP.dll",
       "winhttp.dll"
     ]
   },
