@@ -22,7 +22,7 @@
     "fallbackUrls": [
       "https://oaivdxyvlqyrrickkldl.supabase.co/storage/v1/object/public/celem-downloads/plugins/CelemUX/0.1.291/CelemUX.dll"
     ],
-    "hash": "39a2accd579d4441a30eb80925eb0a6b1f7c2213ad1c30a02583ae0a2ddf3cf1",
+    "hash": "4db52cfcc40551377c41713981c7f6c6b19bcc023bd006dff056d81debb0bdef",
     "artifactType": "file",
     "targetPath": "BepInEx/plugins/CelemUX.dll"
   }
