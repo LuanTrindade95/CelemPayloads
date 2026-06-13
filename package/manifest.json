@@ -19,9 +19,7 @@
   },
   "ui": {
     "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/CelemUX.dll",
-    "fallbackUrls": [
-      "https://oaivdxyvlqyrrickkldl.supabase.co/storage/v1/object/public/celem-downloads/plugins/CelemUX/0.1.293/CelemUX.dll"
-    ],
+    "fallbackUrls": [],
     "hash": "65f866b52a2c267af1966ed96e910151e88b0c34c8f073301af9579707a9b11c",
     "artifactType": "file",
     "targetPath": "BepInEx/plugins/CelemUX.dll"
