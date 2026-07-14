@@ -18,7 +18,7 @@
     ]
   },
   "ui": {
-    "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/CelemUX.dll",
+    "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/21fd86879bd0e3ecd27e08d1e3365e51273f2a89/package/CelemUX.dll",
     "fallbackUrls": [],
     "hash": "4bc51c2ccf1dc69b04550ca99e06c55d20ba7e764f3a219dce45dfe4025d6a9d",
     "artifactType": "file",
