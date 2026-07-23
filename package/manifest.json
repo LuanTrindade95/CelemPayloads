@@ -1,5 +1,5 @@
 {
-  "version": "0.1.415",
+  "version": "0.1.416",
   "bepinEx": {
     "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/BepInEx-BepInExPack_V_Rising-1.733.2.zip",
     "fallbackUrls": [
@@ -20,7 +20,7 @@
   "ui": {
     "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/CelemUX.dll",
     "fallbackUrls": [],
-    "hash": "59ed3d45d786d47f7ea910680253c4f48bb0a5bf9a9915a4b34d6e511d9350c8",
+    "hash": "c4388ac2ade3a1f17740de3e57e8230c866a9f966a1c617bfc9686969e78b8a0",
     "artifactType": "file",
     "targetPath": "BepInEx/plugins/CelemUX.dll"
   }
