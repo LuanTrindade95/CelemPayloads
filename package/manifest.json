@@ -20,7 +20,7 @@
   "ui": {
     "url": "https://raw.githubusercontent.com/LuanTrindade95/CelemPayloads/main/package/CelemUX.dll",
     "fallbackUrls": [],
-    "hash": "adfaf3dfeea88553049e82cce74f320ab29058f24cabf2703441b63aeeb57caa",
+    "hash": "9f1e89b543d8586339ce7a12b113f24fb3c6f21d5ad37f053c186331414694d6",
     "artifactType": "file",
     "targetPath": "BepInEx/plugins/CelemUX.dll"
   }
